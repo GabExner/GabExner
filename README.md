@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @GabExner  
-- 👀 I’m interested in games and music!  
-- 🌱 I’m currently learning AI, exploring tools like Flask and Postman, and enhancing my skills in data analysis.  
-- 💞️ I’m looking to collaborate on projects where I can use my marketing knowledge and IT expertise.  
-- 😄 Pronouns: He/His  
-- ⚡ Fun fact: I love cats!  
+Hey! I’m Gabriel Exner :)
+
+I’m a Security Analyst passionate about technology, automation, and problem-solving.
+I work with incident analysis, monitoring, and operational security, and I’m constantly exploring ways to improve workflows through development and AI.
+
+Currently focused on:
+-Security operations and threat analysis
+-Backend development and automation
+-AI applications in security and data analysis
+
+I enjoy building practical solutions, learning deeply, and turning complexity into clarity.
+
+Fun fact: I love cats
