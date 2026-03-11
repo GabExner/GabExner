@@ -9,5 +9,3 @@ Currently focused on:
 -AI applications in security and data analysis
 
 I enjoy building practical solutions, learning deeply, and turning complexity into clarity.
-
-Fun fact: I love cats
